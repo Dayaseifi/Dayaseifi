@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Camooda**
 
-- 👨‍💻 All of my projects are available at [github]([github](https://github.com/Dayaseifi))
+- 👨‍💻 All of my projects are available at [github](https://github.com/Dayaseifi)
 
 - 💬 Ask me about **Node.js**
 
